@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+  <category>
+    <pattern> What is narutos dream </pattern>
+    <template>To be Hokage </template>
+  </category>
+  <category>
+    <pattern> I am Naruto  </pattern>
+    <template>Believe It !!  </template>
+  </category>
+  <category>
+    <pattern> whats your favorite jutsu?   </pattern>
+    <template> Genjutsu , Ninjutsu and TaiJutsu!   </template>
+  </category>
+</aiml>
+      
